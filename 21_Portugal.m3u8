@@ -1,0 +1,155 @@
+#EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Entertainment",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="News",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News (en)
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg (en)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 (en)
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle (en)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera (en)
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today (en)
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World (en)
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN (en)
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary (en)
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h (es)
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE (es)
+http://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia (gl)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 (fr)
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde (fr)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 (it)
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle (de)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Midnight Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Entertainment",Antena 1 (aud)
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Entertainment",Antena 2 (aud)
+http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://ptiptv.tk/logo?i=RDP3" group-title="Entertainment",Antena 3 (aud)
+http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Entertainment",Antena 1 Açores (aud)
+http://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Entertainment",Antena 1 Madeira (aud)
+http://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Entertainment",Antena 3 Madeira (aud)
+http://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Entertainment",RDP Internacional (aud)
+http://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Entertainment",RDP África (aud)
+http://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Entertainment",Antena 1 Memória (aud)
+http://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Music",Antena 1 Lusitânia (aud)
+http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Entertainment",Antena 1 Vida (aud)
+http://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Music",Antena 1 Fado (aud)
+http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Music",Antena 2 Jazzin’ (aud)
+http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Music",Antena 2 Ópera (aud)
+http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Kids",Rádio ZigZag (aud)
+http://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCOM" group-title="Entertainment",Rádio Comercial (aud)
+http://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCROCK" group-title="Music",Rádio Comercial Rock (aud)
+http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCDANCE" group-title="Music",Rádio Comercial Dance (aud)
+http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCHIT" group-title="Music",Rádio Comercial One Hit Wonders (aud)
+http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCSOFT" group-title="Music",Rádio Comercial Soft (aud)
+http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCTUGA" group-title="Music",Rádio Comercial Made in Portugal (aud)
+http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80" group-title="Entertainment",M80 Rádio (aud)
+http://mcrwowza6.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8080" group-title="Music",M80 Rádio 80’s (aud)
+http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80RCK" group-title="Music",M80 Rádio Rock (aud)
+http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8090" group-title="Music",M80 Rádio 90’s (aud)
+http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80BAL" group-title="Music",M80 Rádio Ballads (aud)
+http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80POP" group-title="Music",M80 Rádio Pop (aud)
+http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8070" group-title="Music",M80 Rádio 70’s (aud)
+http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80DNC" group-title="Music",M80 Rádio Dance (aud)
+http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80IND" group-title="Music",M80 Rádio Indie (aud)
+http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80NAC" group-title="Music",M80 Rádio Portugal (aud)
+http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80SOL" group-title="Music",M80 Rádio Soul (aud)
+http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8060" group-title="Music",M80 Rádio 60’s (aud)
+http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDFM" group-title="Entertainment",Cidade FM (aud)
+http://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDHH" group-title="Music",Cidade Hip Hop (aud)
+http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOFM" group-title="Entertainment",Smooth FM (aud)
+http://mcrwowza6.mcr.iol.pt/smooth/smil:smooth.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOVJZ" group-title="Music",Smooth Vocal Jazz (aud)
+http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOSOL" group-title="Music",Smooth Soul (aud)
+http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBLS" group-title="Music",Smooth Blues (aud)
+http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBOS" group-title="Music",Smooth Bossa Nova (aud)
+http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOJZ" group-title="Music",Smooth Jazz (aud)
+http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=VDFFM" group-title="Music",Vodafone.FM (aud)
+http://mcrwowza6.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM" group-title="Entertainment",RFM (aud)
+http://21313.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM80S" group-title="Music",RFM 80’s (aud)
+http://21313.live.streamtheworld.com/GR80SRFMAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOTR" group-title="Music",RFM On The Rock (aud)
+http://21313.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMDF" group-title="Music",RFM Dancefloor (aud)
+http://21273.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOP" group-title="Music",RFM Oceano Pacífico (aud)
+http://21283.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RENASC" group-title="Entertainment",Rádio Renascença (aud)
+http://21283.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MEGAHITS" group-title="Music",Mega Hits (aud)
+http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RSIM" group-title="Entertainment",Rádio Sim (aud)
+http://21283.live.streamtheworld.com/RADIO_SIMAAC.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TSF" group-title="News",TSF Rádio Notícias (aud)
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="News",Rádio Observador (aud)
+http://centova.radios.pt/proxy/455?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SBSRFM" group-title="Music",SBSR FM (aud)
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RMSW" group-title="Music",Rádio MEO Sudoeste (aud)
+http://centova.radios.pt/proxy/495?mp=/stream
