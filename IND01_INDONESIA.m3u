@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="************ INDONESIA ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ INDONESIA ************
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-id="" group-title="ANIMAL PLANET HD" tvg-logo="https://media.elcinema.com/tvguide/1267_1.png", ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+
+#EXTINF:-1 tvg-name="All Sport" tvg-id="" group-title="All Sport" tvg-logo="", All Sport
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+
+#EXTINF:-1 tvg-name="BeritaSatu" tvg-id="" group-title="BeritaSatu" tvg-logo="", BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF=-1 tvg-name="CARTOON NETWORK" tvg-id="" group-title="CARTOON NETWORK" tvg-logo="", CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+#EXTINF=-1 tvg-name="Channel NewsAsia, CNA HD" tvg-id="" group-title="Channel NewsAsia, CNA HD" tvg-logo="", Channel NewsAsia, CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF=-1 tvg-name="CNBC, CNBC Indonesia" tvg-id="" group-title="CNBC, CNBC Indonesia", tvg-logo="", CNBC, CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF=-1 tvg-name="HIDUP TV" tvg-id="" group-title="HIDUP TV", tvg-logo="", HIDUP TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF=-1 tvg-name="ID | TVRI, TVRI" tvg-id="" group-title="ID | TVRI, TVRI", tvg-logo="", ID | TVRI, TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
