@@ -45,3 +45,77 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1  tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 tvg-name="Seven Sydney" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Melbourne" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Brisbane" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/BRI1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Adelaide" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/ADE1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Perth" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/PER1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Cairns" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Mackay" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Rockhamption" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Sunshine Coast" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/SSC1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Gold Coast" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Toowoomba" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Townsville" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
+#EXTINF:-1 tvg-name="Seven Wide Bay" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Sydney" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Melbourne" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Brisbane" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Adelaide" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Perth" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7TWO Regional QLD" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Sydney" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Melbourne" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/MEL3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Brisbane" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Adelaide" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Perth" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/PER3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7mate Regional QLD" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Sydney" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Melbourne" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Brisbane" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Adelaide" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Perth" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
+#EXTINF:-1 tvg-name="7flix Regional QLD" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
+#EXTINF:-1 tvg-name="openshop National" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
+#EXTINF:-1 tvg-name="RACING.COM National" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+#EXTINF:-1 tvg-name="RACING.COM Victoria" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-name="PAC-12 Sports National" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://pac12b.cdn.7livecloud.io/index.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel National" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://outdoor.cdn.7livecloud.io/index.m3u8
+#EXTINF:-1 tvg-name="Fuel TV National" tvg-id="7plus.com.au" group-title="AUSTRALIA"
+https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
