@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="****************** BRAZIL ************" tvg-id="" group-title="" tvg-logo="",****************** BRAZIL ************
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/reconsatkids.png",Recon Sat Kids
+https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png",Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg",CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png",TopTV Paraná
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png",Cultura Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png",TV Brasil 2
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png",FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png",TV Escola
+https://video-rvd-df-1.rnp.br/live/ocp(t(FkOckp8oHII)r(fVR9ug)a(sTWTlQ)p(d(2xc)k(q8E)m(_A2wYibgoR2EnPRrCPm07g)n(a(LEVWcA)s(SJA)'a(ptt9Hg)s(ZyA)))s(s(0nQ)b(1ZR4Ej-nB6FDOux-7jUidTEaLUyLK03HyS6MwvxEwpclsS-E2dPq1iyGAsq6d6bHBH9JU1EKW_a2QxDtRg)'s(Dx4)b(h36k2Ggi1-5T5_O8pQXJ7kwHhEyXi047BaJ4p0HUoxKU4l7cAPpk6T2AhRS8ST4xUX4Uh_WYLS9FZHgO8TsJ3oJu3V0IPuThfGxJqxA2)'s(I8I)b(3CyMAClL))m(0))/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png",TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/9f41c575-ceca-4863-89e7-85e1628fab94.png",98 Live
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/cancaonova.png",Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png",TV Aparecida
+https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png",Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png",IURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Difusora (MA)
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT Tailândia (PA)
+https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Natal - TV Tropical
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Mato Grosso - TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png",Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png",RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png",TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png",RedeTV! Rondônia
+https://tna5.bozztv.com/sgc17/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/loadingtvof.png",Loading
+https://aws-br.cdn.booyah.live/hls/1000000/master_34850987.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png",TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png",Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png",Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png",Rede Metrópole
+http://177.130.81.30/hls/metropole.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png",TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png",TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png",YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png",Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/533047_b6dbc13030db4542a3b77df1f2a75435mv2.png",TV Transamérica (PR)
+http://5953e7f9ae845.streamlock.net/ponto2/transamerica2/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/central.png",Central TV
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png",Rede Premium
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg",RDC
+https://srv3.zcast.com.br/rdctv/rdctv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg",Canal 29 - WebTV
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png",TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg",TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png",TV Manchete - WebTV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png",TV Liberdade - WebTV
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/latinasat.png",Latina SAT - WebTV
+https://livefocamundo.com:8081/8470/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png",Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png",TV Pantanal MS - WebTV
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png",TV Aracati
+https://livefocamundo.com:8081/8148/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png",KRÓNOS MOVIE
+https://livefocamundo.com:8081/8588/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg",TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdadelogo.png",TV Liberdade - WebTV
+https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png",TV Destak - WebTV
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png",TV Sjid (BA)
+https://livefocamundo.com:8081/8650/index.m3u8
+#EXTINF:-1  group-title="BRAZIL" tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png",TV Zoom
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
