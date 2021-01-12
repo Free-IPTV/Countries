@@ -31,3 +31,27 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wness TV" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="BULGARIA",Wness TV
 https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BNT1" tvg-logo="https://bnt.bg/box/img/BNT1.svg" group-title="BULGARIA", BNT1 
+https://e117-ts.cdn.bg/bnt1/fls/bnt1HD_abr.stream/chunklist_b2000000_t64SGlnaA==.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="BNT3" tvg-logo="https://bnt.bg/box/img/BNT3.svg" group-title="BULGARIA", BNT3
+https://e104-ts.cdn.bg/bnt1/fls/bntHD_abr.stream/chunklist_b2000000_t64SGlnaA==.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="https://static.nova.bg/public/files/nova/images/logos/android-chrome-192x192.png" group-title="BULGARIA", NOVA
+https://e119-ts.cdn.bg/ntv/fls/ntv_2.stream/chunklist.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+EXTINF:-1 tvg-id="" tvg-name="NOVA NEWS" tvg-logo="https://nstatic.nova.bg/files/nova/images/bubble-novaNews.svg" group-title="BULGARIA", NOVA NEWS
+https://e109-ts.cdn.bg/ntv/fls/NNHD.stream/chunklist.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="BG ON AIR" tvg-logo="https://www.bgonair.bg/media/img/logo_BGonAir_blue.svg" group-title="BULGARIA", BULGARIA ON AIR
+https://edge16.cdn.bg:20060/fls/bonair.stream/chunklist_w41748786.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://bolgarskij-jazyk.ru/i/tv/bloomberg.png" group-title="BULGARIA", Blomberg TV Bulgaria
+https://edge17.cdn.bg:20910/fls/bloomberg.stream/chunklist_w2100400996.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="https://i.ytimg.com/vi/ADHML5x6yc4/hqdefault.jpg" group-title="BULGARIA", AGRO TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="БЪЛГАРИЯ 24" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bulgaria_24_bg.png" group-title="BULGARIA", БЪЛГАРИЯ 24
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ВТК" tvg-logo="https://armymedia.bg/wp-content/uploads/2015/03/new_lego_vtk.jpg" group-title="BULGARIA", ВТК
+https://edge16.cdn.bg:20070/fls/vtv/chunklist_w1473307766.m3u8?at=279e76f03972b33cfab65bb6d0137fd8
+#EXTINF:-1 tvg-id="" tvg-name="ЕВРОКОМ" tvg-logo="https://eurocom.bg/images/ek-logo.png" group-title="BULGARIA", ЕВРОКОМ
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КАНАЛ 0" tvg-logo="http://rn-tv.com/wp-content/uploads/2015/09/kanal-0.png" group-title="BULGARIA", КАНАЛ 0
+http://old.rn-tv.com/k0/3165388/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВ Дартс" tvg-logo="https://tvdarts.com/wp-content/uploads/2019/12/cropped-header-3.png" group-title="BULGARIA", Телевизия Дартс
+https://streamer103.neterra.tv/darts/darts.smil/chunklist_w1588218107_b2160000_slbul.m3u8
