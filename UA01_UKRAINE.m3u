@@ -75,10 +75,6 @@ plugin://plugin.video.youtube/play/?video_id=3e0FsU1N6OQ
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="olvia-tv" tvg-name="Olvia Sat Odessa" tvg-logo="https://i.imgur.com/khlZ532.png" group-title="UKRAINE",Olvia Sat Odessa
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
-#EXTINF:-1 tvg-id="oplot-tv" tvg-name="Oplot" tvg-logo="https://i.imgur.com/DfuFt9W.png" group-title="UKRAINE",Oplot
-http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1 tvg-id="oplot2-tv" tvg-name="Oplot 2" tvg-logo="https://i.imgur.com/DfuFt9W.png" group-title="UKRAINE",Oplot 2
-http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 tvg-id="orbita-tv" tvg-name="Orbita" tvg-logo="https://i.imgur.com/coheUax.png" group-title="UKRAINE",Orbita
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="pershy-zaxidny" tvg-name="Pershiy Zakhidniy" tvg-logo="https://i.imgur.com/yifGKcA.png" group-title="UKRAINE",Pershiy Zakhidniy
