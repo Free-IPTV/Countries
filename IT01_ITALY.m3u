@@ -21,6 +21,10 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/HB0LSjW.jpg" group-title="ITALY",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cielo" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/61/Cielo_TV_logo.svg",Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Class CNBC" tvg-logo="" group-title="ITALY",Class CNBC
@@ -53,10 +57,16 @@ https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="",Italia 2
+
+#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/1200px-Logo_Italia2.svg.png",Italia 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Marcopolo" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e8/Marcopolo_Logo_2015.png",MARCOPOLO
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minerva Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Minerva Bizzarro Movies
@@ -95,12 +105,34 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Monte Carlo TV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo=" group-title="ITALY",Radio Radicale TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo="" group-title="ITALY",Radio Radicale TV
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo=" group-title="ITALY",Radio Radio TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo="" group-title="ITALY",Radio Radio TV
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-name="Radio Zeta TV" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="",Radio Zeta TV
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RAI 1" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/1280px-Rai_1_logo.svg.png",Rai 1
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-name="RAI 2" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rai_2_logo.svg/1280px-Rai_2_logo.svg.png",Rai 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
+
+#EXTINF:-1 tvg-name="RAI 3" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rai_3_logo.svg/1280px-Rai_3_logo.svg.png",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117
+
+#EXTINF:-1 tvg-name="RAI 4" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rai_4_2010_Logo.svg/1920px-Rai_4_2010_Logo.svg.png",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-name="RAI Gulp" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/2630px-Rai_Gulp_-_Logo_2017.svg.png",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
+
+#EXTINF:-1 tvg-name="RAI Storia" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RAI_storia_2010_Logo.svg/1280px-RAI_storia_2010_Logo.svg.png",Rai Storia
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-p.m3u8
+
+#EXTINF:-1 tvg-name="RAI Yoyo" tvg-id="" group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1280px-Rai_Yoyo_-_Logo_2017.svg.png",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
+
 #EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
