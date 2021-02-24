@@ -139,6 +139,18 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway (NO)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-name="Muzzik Cafe&Club Serbia"" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Rock&Roll Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TV Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits (FR)
