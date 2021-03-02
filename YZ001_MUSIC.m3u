@@ -283,7 +283,6 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-name="Wham TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/vxg8fKd.jpg",Wham TV (BR)
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TZiK (FR)" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="MUSIC",TZiK (FR)
 #EXTINF:-1 tvg-name="XALASTRA (GR)" tvg-id="" tvg-logo="https://i.imgur.com/cdT9deo.jpg" group-title="MUSIC",XALASTRA (GR)
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",XITE (BE)
