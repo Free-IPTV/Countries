@@ -32,7 +32,7 @@ https://aks-we02-cdn.connectmedia.hu/1104/7ddb80b11e6e0d09a9f76204f9acd1d8/60388
 #EXTINF:-1 tvg-id="" tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="HUNGARY",M5 Hungary
 https://c201-node62-cdn.connectmedia.hu/1105/14684cc0a69055f31083b7e129699c7a/60388c26/index.m3u8?v=5i
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC +" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="HUNGARY",MUSIC +
-http://s02.diazol.hu:10192/hls/stream.m3u8
+http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ozdi Varosi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="HUNGARY",Ozdi Varosi TV
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="HUNGARY",Pannon RTV
