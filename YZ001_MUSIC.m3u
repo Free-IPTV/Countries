@@ -3,6 +3,8 @@
 https://
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="4 TURK (TR)" tvg-id="" tvg-logo="https://i.imgur.com/0hJdBEb.png" group-title="MUSIC",4 TURK (TR)
+http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 tvg-name="80's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",80's Loop (US)
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="90's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",90's Loop (US)
@@ -105,6 +107,8 @@ https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 #EXTINF:-1 tvg-name="Latinos UP (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/RoT3z9H.jpg",Latinos UP (BR)
 https://5b38ce71f1f00.streamlock.net/8082/8082/playlist.m3u8
+#EXTINF:-1 tvg-name="LEEEKO TV (FR)" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="MUSIC",LEEEKO TV (FR)
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM (CH)" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="MUSIC",LFM (CH)
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsrGxob.png" group-title="MUSIC",Like Yesterday (US)
@@ -189,6 +193,8 @@ http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-name="PANIK TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg" group-title="MUSIC",PANIK TV (GR)
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
+#EXTINF:-1 tvg-name="PERSIANA MUSIC (IR)" tvg-id="" tvg-logo="https://i.imgur.com/Fqax7WT.png" group-title="MUSIC",PERSIANA MUSIC (IR)
+http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIC",Radio 51 Lombardia (IT)
