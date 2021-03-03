@@ -21,3 +21,13 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Västmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",Västmanlands Television
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SVT 1" tvg-logo="https://i.imgur.com/hHMafc0.png" group-title="SWEDEN",SVT 1
+https://svt1-a.akamaized.net/se/Xsvt1/master.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="" tvg-name="SVT 2" tvg-logo="https://i.imgur.com/eAV4y2S.png" group-title="SWEDEN",SVT 2
+https://svt2-a.akamaized.net/se/svt2/master-fmp4.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="" tvg-name="SVT 24" tvg-logo="https://i.imgur.com/2tj1XYd.png" group-title="SWEDEN",SVT 24
+https://svtb-a.akamaized.net/se/svtb/master-fmp4.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="" tvg-name="SVT Barn" tvg-logo="https://i.imgur.com/O5JC70Z.jpg" group-title="SWEDEN",SVT Barn
+https://svtb-a.akamaized.net/se/svtb/master-fmp4.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="" tvg-name="Kunskapskanalen" tvg-logo="https://i.imgur.com/QalVrk0.png" group-title="SWEDEN",Kunskapskanalen
+https://svtb-a.akamaized.net/se/svtb/master-fmp4.m3u8?defaultSubLang=1
