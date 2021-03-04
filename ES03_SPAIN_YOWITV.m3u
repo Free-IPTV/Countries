@@ -5,15 +5,15 @@ https://
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8 La Marina TV" tvg-logo="https://i.imgur.com/4v9dDDx.png" group-title="SPAIN YOWI",8 La Marina TV
 https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
-#EXTINF:-1 tvg-name="Campiña Sur TV" tvg-logo="https://i.imgur.com/87KGlQz.png" group-title="SPAIN",Campiña Sur TV
+#EXTINF:-1 tvg-name="Campiña Sur TV" tvg-logo="https://i.imgur.com/87KGlQz.png" group-title="SPAIN YOWI",Campiña Sur TV
 https://cdn01.yowi.tv/4131RI73I9/master.m3u8
-#EXTINF:-1 tvg-name="Canal 45 Andujar" tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN",Canal 45 Andujar
+#EXTINF:-1 tvg-name="Canal 45 Andujar" tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN YOWI",Canal 45 Andujar
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Diocesano" tvg-logo="https://i.imgur.com/XA0uKMY.jpg" group-title="SPAIN YOWI",Canal Diocesano
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dejate de Historias" tvg-logo="https://i.imgur.com/umuu5Ni.jpg" group-title="SPAIN YOWI",Dejate de Historias
 https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
-#EXTINF:-1 tvg-id="Distrito.TV" tvg-name="Distrito TV Madrid" tvg-logo="https://i.imgur.com/tdx3odj.png" group-title="SPAIN",Distrito TV Madrid
+#EXTINF:-1 tvg-id="Distrito.TV" tvg-name="Distrito TV Madrid" tvg-logo="https://i.imgur.com/tdx3odj.png" group-title="SPAIN YOWI",Distrito TV Madrid
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOTB" tvg-logo="https://i.imgur.com/3Kj02Io.png" group-title="SPAIN YOWI",DOTB
 https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
@@ -33,7 +33,7 @@ https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Television de San Vicente" tvg-logo="https://i.imgur.com/qNbvsWq.jpg" group-title="SPAIN YOWI",Television de San Vicente
 https://cdn01.yowi.tv/L4Y5ILBY62/master.m3u8
-#EXTINF:-1 tvg-name="TeVe4" tvg-logo="https://i.imgur.com/IprxjLs.jpg" group-title="SPAIN",TeVe4
+#EXTINF:-1 tvg-name="TeVe4" tvg-logo="https://i.imgur.com/IprxjLs.jpg" group-title="SPAIN YOWI",TeVe4
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="SPAIN YOWI",TV Familia
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8

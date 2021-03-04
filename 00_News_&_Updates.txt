@@ -6,15 +6,28 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Thuesday, 2 March 2021:
+Wednesday, 3 March 2021:
 
-There is the new ES03_SPAIN_YOWITV! The streams in the new m3u you can watch also in the homepage YOWI TV.
+Today we have a lot of new things for the friends from Greece or for those who like their streams! :-)
+
+New music streams - Special thanks to @Zhoro-111! :-)
+
+YZ001_MUSIC
+Added: CANNALI TV (GR), MY RADIO TV (GR), NRG TV (GR), PANIK TV (GR), TILEMOUSIKI (GR)
+
+I add also here some music streams from GR01_GREECE to YZ001_MUSIC :-)
+Added: Baraza TV Classic Hits, Baraza TV Greek Music Hits, Magic TV (GR), NG RADIO (GR), Reload Play (GR), Xalastra TV (GR)
+
+GR01_GREECE
+Added: Best TV, EPT 1, EPT 2, Nea TV, Smile, Skai TV, Star, TV100, TV Rodopi
+Removed dead streams: Corfu TV, Diktyo 1, Montreal Greek TV, Top Channel, TRT TV
 
 ES03_SPAIN_YOWITV
-NEW: 3/24, 8 La Marina TV, Campiña Sur TV, Canal 45 Andujar, Canal Diocesano, Dejate de Historias, Distrito TV Madrid, DOTB, Hermes TV, Imas TV, Lancelot TV, Lleida Televisio, TEF, Tele Aranda, TeleSur Madrid, Television de San Vicente, TeVe4, TV Familia, TVL Teleganes
+Corrected group names for some entries
 
-ES01_SPAIN
-Removed dead streams: Canal 10 Emporda, Noroeste TV, OndaCadiz.TV, Parlamento de Navarra, RTV Vida España, Tele 7, TV Ferrol
-Moved to new ES03_SPAIN_YOWITV:  Campiña Sur TV, Canal 45 Andujar, Déjate de Historias TV, Distrito TV Madrid, DOTB, Hermes TV, TEF, TeleSur Madrid, Television Aranda, Television de San Vicente, TeVe4, TVL Teleganes,
+We're keeping an eye on this post too! Let's see how long it will take until my new streams appear there !!!
 
-:-)
+https://www.vuplus-support.org/wbb4/index.php?thread/142192-astra-19-2e-settings-free-iptv-ipradio-ipwebcam/&pageNo=2
+
+;-)
+
