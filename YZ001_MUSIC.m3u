@@ -3,6 +3,8 @@
 https://
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="4 TURK (TR)" tvg-id="" tvg-logo="https://i.imgur.com/0hJdBEb.png" group-title="MUSIC",4 TURK (TR)
+http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 tvg-name="80's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",80's Loop (US)
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="90's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",90's Loop (US)
@@ -51,6 +53,8 @@ https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV HD (BR)
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-name="CANNALI TV HD (GR)" tvg-id="" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="MUSIC",CANNALI TV HD (GR)
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D5 TV (FR)" tvg-logo="https://i.imgur.com/cThInij.png" group-title="MUSIC",D5 TV (FR)
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US) " tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",DanceTrippin (US)
@@ -173,8 +177,12 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="MUSIC",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+
 #EXTINF:-1 tvg-id="" tvg-name="NG RADIO (GR)" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC",NG RADIO (GR)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="NRG TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG TV (GR)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="MUSIC",NRJ Hits (FR)
@@ -199,6 +207,11 @@ http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-name="PANIK TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg" group-title="MUSIC",PANIK TV (GR)
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIC",Radio 51 Lombardia (IT)
@@ -295,7 +308,11 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-name="Wham TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/vxg8fKd.jpg",Wham TV (BR)
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xalastra TV (GR)" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="MUSIC",Xalastra TV (GR)
+
+
+
+#EXTINF:-1 tvg-name="XALASTRA (GR)" tvg-id="" tvg-logo="https://i.imgur.com/cdT9deo.jpg" group-title="MUSIC",XALASTRA (GR)
+
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",XITE (BE)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
