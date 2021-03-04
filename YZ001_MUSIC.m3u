@@ -22,7 +22,7 @@ https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="Bajo Cero TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/aRPmfji.jpg",Bajo Cero TV (BR)
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Baraza Music TV (GR)" tvg-id="Baraza Music TV" group-title="MUSIC" tvg-logo="https://i.imgur.com/djhtmFQ.png",Baraza Music TV (GR)
-https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraza TV Classic Hits (GR)" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Classic Hits (GR)
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraza TV Greek Music Hits (GR)" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Greek Music Hits (GR)
