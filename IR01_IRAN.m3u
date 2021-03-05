@@ -9,7 +9,7 @@ http://51.210.199.29/hls/stream.m3u8
 http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA + HD" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" group-title="IRAN",PERSIANA + HD
 http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD" tvg-logo="https://imgur.com/ytII1cO" group-title="IRAN",PERSIANA BILLBOARD
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD" tvg-logo="https://i.imgur.com/c1OKBnR.png" group-title="IRAN",PERSIANA BILLBOARD
 http://51.210.199.10/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA CINEMA" tvg-logo="https://i.imgur.com/PNgDL7b.png" group-title="IRAN",PERSIANA CINEMA
 http://51.210.199.15/hls/stream.m3u8
