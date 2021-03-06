@@ -1,1 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=vg-name="***************** SPORTS ***********" group-title="SPORTS" tvg-logo="https://i.imgur.com/ieFqgZZ.png",***************** SPORTS ***********
+http://
+#EXTINF:-1 tvg-id="" tvg-name="Shabake-Varzesh (IR)"  tvg-logo="https://i.imgur.com/iZ4GYBb.png" group-title="SPORTS",Shabake-Varzesh (IR)
+https://sdm.telewebion.com/live/varzesh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTAL (BG)"  tvg-logo="https://i.imgur.com/ImyrO23.jpg" group-title="SPORTS",SPORTAL (BG)
+https://e102-ts.cdn.bg/sportal/fls//sportal_pal/chunklist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
