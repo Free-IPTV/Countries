@@ -20,7 +20,7 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="BULGARIA",MM TV
 https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
-https://e203-ts.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=27dbed3689bce270f5ce305e550588f2
+https://e102-ts.cdn.bg/sportal/fls//sportal_pal/chunklist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
 #EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
