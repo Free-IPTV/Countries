@@ -33,6 +33,8 @@ http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTV" tvg-logo="https://i.imgur.com/6zzwmfK.jpg" group-title="USA LOCAL",CGTV
 https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+EXTINF:-1,US : CBS (WBBM– Chicago IL)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/90252
 #EXTINF:-1 tvg-name="CT-N TV  - Conneticut" tvg-id="CT-N TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/pb0TFQt.jpg",CT-N TV  - Conneticut
 http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cozi 16 WZTS" tvg-logo="https://i.imgur.com/6xlSsOY.png" group-title="USA LOCAL",Cozi 16 WZTS
