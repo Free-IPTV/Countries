@@ -75,3 +75,5 @@ http://
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="Rocket Beans TV" tvg-id="RocketBeans.tv" group-title="GERMANY" tvg-logo="https://i.imgur.com/g6bLn80.png",Rocket Beans TV
+plugin://plugin.video.youtube/play/?video_id=vfVo_YQBEQA
