@@ -89,7 +89,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="ITALY",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Freccia" tvg-logo"https://i.imgur.com/O8ByUjT.png" group-title="ITALY",Radio Freccia
+#EXTINF:-1 tvg-id="" tvg-name="Radio Freccia" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY",Radio Freccia
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="" tvg-logo="https://i.imgur.com/7eWrVUH.jpg" group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
@@ -101,7 +101,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo="" group-title="ITALY",Radio Radio TV
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo"https://i.imgur.com/NiO6TYC.png" group-title="ITALY",Radio Zeta TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo="https://i.imgur.com/NiO6TYC.png" group-title="ITALY",Radio Zeta TV
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
@@ -115,7 +115,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rete 7" tvg-logo="https://i.imgur.com/qkxCo8N.png" group-title="ITALY",Rete 7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retesole Lazio" tvg-logo"https://i.imgur.com/vvVgZN2.png" group-title="ITALY",Retesole Lazio
+#EXTINF:-1 tvg-id="" tvg-name="Retesole Lazio" tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="ITALY",Retesole Lazio
 http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
@@ -139,7 +139,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="ITALY",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenuova" tvg-name="" tvg-logo"https://i.imgur.com/Om2cv49.png" group-title="ITALY",Telenuova
+#EXTINF:-1 tvg-id="Telenuova" tvg-name="" tvg-logo="https://i.imgur.com/Om2cv49.png" group-title="ITALY",Telenuova
 https://mediastream.telenuovo.it/tv/2021/03/13/be755445-f618-4cf0-8f1c-b776fc223c3a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGCOM24 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24 - github.com/Free-IPTV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
