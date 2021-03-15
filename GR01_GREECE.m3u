@@ -27,7 +27,7 @@ http://176.9.123.140:1935/1c/stream/master.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPT 2" tvg-logo="https://i.imgur.com/YJL8I1G.png" group-title="GREECE",EPT 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT World - github.com/Free-IPTV" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREECE",ERT World - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="ERT World tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREECE",ERT World - github.com/Free-IPTV
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Tv Greece" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" group-title="GREECE",Fox Tv Greece
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
