@@ -125,8 +125,6 @@ https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 TV" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/2qEKxox.jpg",RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTTR TV Trento" tvg-logo="https://i.imgur.com/9vL9mDz.png" group-title="ITALY",RTTR TV Trento
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Sport (San Marino)" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV Sport (San Marino)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/u7wlwXg.png" group-title="ITALY",Senato TV
