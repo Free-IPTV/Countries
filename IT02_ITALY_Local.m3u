@@ -91,6 +91,8 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 https://stream7.xdevel.com/video0s975758-579/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Carina TV" tvg-logo="https://i.imgur.com/Epfn9m0.png" group-title="ITALY LOCAL",Radio Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Company TV" tvg-logo="https://i.imgur.com/9fR1Gfh.png" group-title="ITALY LOCAL",Radio Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Ibiza TV" tvg-logo="https://i.imgur.com/sH8FGqv.png" group-title="ITALY LOCAL",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Iglesias Sardegna" tvg-logo="https://i.imgur.com/KDtVpLl.png" group-title="ITALY LOCAL",Radio Iglesias Sardegna
