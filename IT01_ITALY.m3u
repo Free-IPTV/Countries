@@ -121,8 +121,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rete 7" tvg-logo="https://i.imgur.com/qkxCo8N.png" group-title="ITALY",Rete 7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retesole Lazio" tvg-logo="https://i.imgur.com/KjqkwTl.png" group-title="ITALY",Retesole Lazio
-http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 TV" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/2qEKxox.jpg",RTL 102.5 TV

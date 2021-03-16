@@ -121,7 +121,9 @@ https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rete Veneta" tvg-logo="https://i.imgur.com/kEje57b.png" group-title="ITALY LOCAL",Rete Veneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retesole" tvg-logo="https://i.imgur.com/xtBShKD.png" group-title="ITALY LOCAL",Retesole
+#EXTINF:-1 tvg-id="" tvg-name="Retesole Lazio" tvg-logo="https://i.imgur.com/KjqkwTl.png" group-title="ITALY LOCAL",Retesole Lazio
+http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retesole Umbria" tvg-logo="https://i.imgur.com/xtBShKD.png" group-title="ITALY LOCAL",Retesole Umbria
 http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RMK TV Sciacca" tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="ITALY LOCAL",RMK TV Sciacca
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
