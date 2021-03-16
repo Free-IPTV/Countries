@@ -37,7 +37,7 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Donna Shopping" tvg-logo="https://i.imgur.com/mpktvGP.png" group-title="ITALY",Donna Shopping
 https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Donna TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/N6OtbVs.png" group-title="ITALY",Donna TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/N6OtbVs.png" group-title="ITALY",Donna TV
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="ITALY",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -47,7 +47,7 @@ https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Giallo - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV Italia" tvg-logo="https://i.imgur.com/9l2UAmK.jpg" group-title="ITALY",HGTV Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
@@ -75,7 +75,7 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="ITALY",Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moods - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ITALY",Moods  - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ITALY",Moods 
 https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="ITALY",Motor TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -147,7 +147,7 @@ https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenuova" tvg-name="" tvg-logo="https://i.imgur.com/TYzWepX.jpg" group-title="ITALY",Telenuova
 https://mediastream.telenuovo.it/tv/2021/03/13/be755445-f618-4cf0-8f1c-b776fc223c3a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM24 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24 - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crime
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
@@ -157,7 +157,7 @@ https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 2000" tvg-logo="https://i.imgur.com/y2LUcDt.png" group-title="ITALY",TV 2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Shows - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="ITALY",TV Shows - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="ITALY",TV Shows
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/J06pfxg.png" group-title="ITALY",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
