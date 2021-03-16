@@ -7,7 +7,5 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Muxx.tv" tvg-id="" tvg-logo="https://i.imgur.com/QUOxNbF.png" group-title="GERMANY Etc",Muxx.tv
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Südtirol TV" tvg-logo="https://i.imgur.com/l6annjS.png" group-title="GERMANY Etc",Südtirol TV
-https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tesas TV - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="GERMANY Etc",Tesas TV - github.com/Free-IPTV
 https://jola.live:16200/tesastv.m3u8

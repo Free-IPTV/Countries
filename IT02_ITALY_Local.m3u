@@ -143,6 +143,8 @@ https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 #EXTINF:-1 tvg-name="Studio 100" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/Z5yAwUO.jpg",Studio 100
 https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/chunklist_w807820603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Südtirol TV" tvg-logo="https://i.imgur.com/l6annjS.png" group-title="GERMANY Etc",Südtirol TV
+https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super J TV Teramo" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="ITALY LOCAL",Super J TV Teramo
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Super TV Brescia" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/yGvwZi3.jpg",Super TV Brescia
