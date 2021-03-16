@@ -89,8 +89,6 @@ https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Finans Turk TV" tvg-logo="https://i.imgur.com/G7uDQBv.png" group-title="TURKEY",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-id="" tvg-logo="https://i.imgur.com/7u0X6Xj.jpg" group-title="TURKEY",FOX TV
-https://foxtv.daioncdn.net/foxtv/foxtv_360p.m3u8?ex=1615587198&st=1QlfpmlicmPXLfZEnv806A&sid=37n3ufcn9mtq&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
 #EXTINF:-1 tvg-name="Gaziantep Olay Tv" tvg-id="" tvg-logo="https://i.imgur.com/kO2pgg1.jpg" group-title="TURKEY",Gaziantep Olay Tv
 https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:-1 tvg-name="GRT" tvg-id="" tvg-logo="https://i.imgur.com/8ew4qz4.jpg" group-title="TURKEY",GRT

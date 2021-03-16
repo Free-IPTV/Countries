@@ -9,7 +9,7 @@ http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-name="DSTV" tvg-id="" group-title="BULGARIA" tvg-logo="https://i.imgur.com/2vRfj1D.png",DSTV
+#EXTINF:-1 tvg-id="" tvg-name="DSTV" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="BULGARIA",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8

@@ -67,14 +67,16 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarity 4K" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="USA",Clarity 4K
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Classic Arts Showcase" tvg-id="ClassicArtsShowcase" group-title="USA" tvg-logo="https://i.imgur.com/2LJzdu6.png",Classic Arts Showcase
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="https://i.imgur.com/gi2LOKf.png" group-title="USA",Classic Cinema
 https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Movies Channel" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="USA" ,Classic Movies Channel
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CMC-USA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA - github.com/Free-IPTV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/TQa7yvL.png" group-title="USA",Comedy Dynamics
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-name="Court TV" tvg-id="Court TV" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
-https://courttv-plutolive-vo.akamaized.net/m/hlslive/courttv/1/courttv.m3u8?chname=courttv&pub=0
 #EXTINF:-1 tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png" group-title="USA",Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crime 360" tvg-logo="https://i.imgur.com/uZPmFMY.png" group-title="USA",Crime 360
@@ -91,6 +93,8 @@ https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_10
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="USA",Dove Channel
 https://dovenow.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Docs Channel TV" tvg-logo="https://i.imgur.com/ajUqEPG.png" group-title="USA",Docs Channel TV
+https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DryBar Comedy" tvg-logo="https://i.imgur.com/nUXwP5M.png" group-title="USA",DryBar Comedy
 https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="USA",Dust
@@ -165,8 +169,14 @@ http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Law and Crime" tvg-logo="https://i.imgur.com/bKhb8O7.png" group-title="USA",Law and Crime
 https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lego Channel " tvg-logo="https://i.imgur.com/xePwW13.png" group-title="USA",Lego Channel 
+#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="USA",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lego Channel TV" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="USA",Lego Channel TV
 https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="USA",Love Nature 4K
+https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Lucky Dog" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="USA",Lucky Dog
+http://d1gsmhzkyjhxg4.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MagellanTV" tvg-logo="https://i.imgur.com/6osyvwh.png" group-title="USA",Magellan TV
 https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mav TV" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="USA",Mav TV
@@ -193,6 +203,8 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCLX" tvg-logo="https://i.imgur.com/FPt2WNf.jpg" group-title="USA",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+#EXTINF:-1 tvg-name="New Kid TV" tvg-logo="https://i.imgur.com/eEBGlFb.png" group-title="USA",New Kid TV
+https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-id="Newsmax" group-title="USA" tvg-logo="https://i.imgur.com/L0PC2YI.png",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="NewsNet" tvg-id="NewsNet" tvg-logo="https://i.imgur.com/Fc40om4.jpg" group-title="USA",NewsNet
@@ -223,6 +235,8 @@ https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
 https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Outside TV+" tvg-logo="https://i.imgur.com/1CViR0E.png" group-title="USA",Outside TV+
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="PAC12 Insider" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="USA",PAC12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PBS Kids (EST)" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="USA",PBS Kids (EST)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Peace TV" tvg-id="Peace TV" group-title="USA" tvg-logo="https://i.imgur.com/6DB5ChS.png",Peace TV
@@ -265,6 +279,8 @@ https://rt-usa.secure.footprint.net/1105.m3u8
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/FtrMhwH.png" group-title="USA",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1 tvg-name="Shout Factory TV" tvg-logo="https://i.imgur.com/YnwHKZj.png" group-title="USA",Shout Factory TV
+https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Sidewalks" tvg-id="Sidewalks" group-title="USA" tvg-logo="https://i.imgur.com/hyEyWIq.png",Sidewalks
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-name="Smart Lifestyle TV" tvg-id="Smart Lifestyle TV" group-title="USA" tvg-logo="https://i.imgur.com/UyIkHU3.png",Smart Lifestyle TV
@@ -275,7 +291,7 @@ https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-name="Stadium" tvg-id="Stadium" group-title="USA" tvg-logo="https://i.imgur.com/n38w3FD.png",Stadium
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sterling Drama" tvg-logo="https://i.imgur.com/LmJCRMJ.jpg" group-title="USA",Sterling Drama
+#EXTINF:-1 tvg-name="Sterling Drama TV" tvg-logo="https://i.imgur.com/EZGAQMv.jpg" group-title="USA",Sterling Drama TV
 https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="USA",Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -293,6 +309,8 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
 #EXTINF:-1 tvg-name="The Asylum" tvg-id="The Asylum" group-title="USA" tvg-logo="https://i.imgur.com/1pxXEtP.png",The Asylum
 http://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Design Network TV" tvg-logo="https://i.imgur.com/84yzpXE.png" group-title="USA",The Design Network TV
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Outdoor Cooking Channel" tvg-logo="https://i.imgur.com/03XLqNz.png" group-title="USA",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Wall Street Journal" tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="USA",The Wall Street Journal
@@ -331,12 +349,18 @@ https://venntv-samsungus.amagi.tv/playlist.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-name="WABI 5 - Bangor - Maine" tvg-id="WABI 5" group-title="USA" tvg-logo="https://i.imgur.com/D8uMAuV.png",WABI 5 - Bangor - Maine
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 tvg-name="Washington Post Live" tvg-logo="https://i.imgur.com/TcpxdXv.png" group-title="USA",Washington Post Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/watchitKid/logo_small.png" group-title="USA",Watch It Kid
 http://content-ausw2.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Waypoint Outdoors" tvg-logo="https://i.imgur.com/moVEMe0.png" group-title="USA",Waypoint Outdoors
 https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="WB Kids" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/BKQ4rCM.png",WB Kids
 plugin://plugin.video.youtube/play/?video_id=_NACJDTz6A4
+#EXTINF:-1 tvg-name="Weather Nation" tvg-id="Weather Nation" group-title="USA" tvg-logo="https://i.imgur.com/X23p0GB.png",Weather Nation
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Weatherspy TV" tvg-logo="https://i.imgur.com/NQABecK.png" group-title="USA",Weatherspy TV
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Whistle TV" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="USA",Whistle TV
 https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xplore" tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="USA",Xplore
