@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** ITALY LOCAL - github.com/Free-IPTV" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY LOCAL - github.com/Free-IPTV
 https://
-#EXTINF:-1 tvg-id="" tvg-name="7 Gold" tvg-logo="https://i.imgur.com/IWOBSQe.gif" group-title="ITALY LOCAL",7 Gold
-https://stream6.xdevel.com/video0s86-370/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="https://i.imgur.com/7w0xhMG.png" group-title="ITALY LOCAL",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY LOCAL",51 Radio TV
