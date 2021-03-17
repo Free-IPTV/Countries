@@ -316,7 +316,7 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 #EXTINF:-1 tvg-id="" tvg-name="The Wall Street Journal" tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="USA",The Wall Street Journal
 https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 tvg-name="The Weather Channel" tvg-id="The Weather Channel" group-title="USA" tvg-logo="https://i.imgur.com/8z7UeY8.png",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+https://short.absidev.com/twc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQCVaSR.png" group-title="USA",This TV Network
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TG Junior" tvg-logo="https://i.imgur.com/12Vkj60.png" group-title="USA",TG Junior
