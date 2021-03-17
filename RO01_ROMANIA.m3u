@@ -43,6 +43,12 @@ http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MoozDance" tvg-logo="https://imgur.com/a/JnCoeZ1" group-title="ROMANIA",MoozDance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MoozHits" tvg-logo="https://i.imgur.com/2Up2i7K.jpg" group-title="ROMANIA",MoozHits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MoozRo" tvg-logo="https://i.imgur.com/BMbofb6.png" group-title="ROMANIA",MoozRo
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL6Mf8b.png" group-title="ROMANIA",NEst TV
