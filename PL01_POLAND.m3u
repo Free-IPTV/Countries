@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** POLAND - github.com/Free-IPTV" group-title="POLAND" tvg-logo="https://i.imgur.com/uxgNIq5.png",*** POLAND - github.com/Free-IPTV
 http://
+#EXTINF:-1 tvg-name="4FUN TV" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/VFs7mdh.jpg",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8.
 #EXTINF:-1 tvg-name="TV Kujawy" tvg-id="" group-title="POLAND" tvg-logo="http://www.kujawy.info/wp-content/uploads/kujawy-info-logo-top.jpg",TV K Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVP3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Warszawa
