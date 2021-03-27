@@ -30,9 +30,6 @@ https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXBZEQP.png" group-title="IRAQ",Al-Hurra Iraq
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1NEyUN.png" group-title="IRAQ",Al-Sumaria
-https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1616880940~dirs=1~hash=07c11c82e00f589bcaa89/sumariamob.smil/live_chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU9HbXY.png" group-title="IRAQ",Al-Rasheed
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 
