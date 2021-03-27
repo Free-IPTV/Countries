@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fa42M3i.png" group-title="KURDISH",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgjj1XR.png" group-title="KURDISH",NRT
+https://media.streambrothers.com:1936/8328/8328/chunklist_w1288521866.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRg8Uhg.png" group-title="KURDISH",Kurdsat
+https://gintna100.tulix.tv/gin_live/kurdsat/b13f4924ca0bc95b9d02fee1c784ebeb/6060a767/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilmOdvQ.png" group-title="KURDISH",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1711798661_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HPcolk.png" group-title="KURDISH",KurdMax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist_w180334371_b1667072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSB8qIn.png" group-title="KURDISH",KurdMax Show
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/chunklist_w865350491_b1667072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5zqZ8r.png" group-title="KURDISH",KurdMax Music
+https://5aa8c7549bfa9.streamlock.net/music/livestream/chunklist_w595596208.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiDMVth.png" group-title="KURDISH",TRT Kurdi
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rvwKR3.png" group-title="KURDISH",Kurdistan 24
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLYWVtp.png" group-title="KURDISH",Med Muzik
+http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
