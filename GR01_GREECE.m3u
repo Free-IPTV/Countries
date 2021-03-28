@@ -51,7 +51,7 @@ http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live TV" tvg-logo="https://i.imgur.com/qryQzWu.png" group-title="GREECE",Live TV
 https://vod.streams.ovh:3829/stream/play.m3u8
-#EXTINF:-1 tvg-name="Magic TV" tvg-logo="https://i.imgur.com/QZQhg6C" group-title="GREECE",Magic TV
+#EXTINF:-1 tvg-name="Magic TV" tvg-logo="https://i.imgur.com/QZQhg6C.png" group-title="GREECE",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 tvg-name="MESSATIDA TV" tvg-logo="https://i.imgur.com/CnKK2Iq.png" group-title="GREECE",MESSATIDA TV
 https://vod.streams.ovh:3037/stream/play.m3u8
