@@ -45,7 +45,7 @@ https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUST" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="AUSTRALIA",DUST
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.au" tvg-name="EURONEWS" tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="AUSTRALIA",EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="AUSTRALIA",EURONEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Expo Channel" tvg-id="" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="AUSTRALIA",Expo Channel
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
