@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="3600"
+#EXTM3U
 #EXTINF:-1 tvg-name="*** PLUTO USA - github.com/Free-IPTV" group-title="USA PLUTO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** PLUTO USA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="USA PLUTO",70s Cinema
