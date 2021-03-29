@@ -111,7 +111,7 @@ https://streaming.elche7tv.es/hls/canal2.m3u8
 https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
 #EXTINF:-1 tvg-name="Estepona TV" tvg-id="" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="SPAIN",Estepona TV
 https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="SPAIN",Esport 3
+#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="https://i.imgur.com/Zum8zuF.jpg" group-title="SPAIN",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="SPAIN",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -255,7 +255,7 @@ http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="tvA" tvg-id="" tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="SPAIN",tvA
 https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN", TVE Canal24
+#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN",TVE Canal24
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-name="TVE Canarias" tvg-logo="https://i.imgur.com/3GjLKeu.jpg" group-title="SPAIN",TVE Canarias
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
