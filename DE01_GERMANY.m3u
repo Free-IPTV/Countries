@@ -1,81 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/xku2oyd.png",GERMANY (Partly GEO-Blocked outside DE) - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="GERMANY (Partly GEO-Blocked) github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/xku2oyd.png",GERMANY (Partly GEO-Blocked) - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" tvg-logo="http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="GERMANY",ARTE
+#EXTINF:-1 tvg-name="ARTE" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="GERMANY",ARTE
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
+#EXTINF:-1 tvg-name="3Sat" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="GERMANY",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png" group-title="GERMANY",ServusTV HD
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png" group-title="GERMANY",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
+#EXTINF:-1 tvg-name="ONE HD" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
 https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="ndr.de" tvg-logo="http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
+#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
-#EXTINF:-1 tvg-name="WDR Köln" tvg-id="WDR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
+#EXTINF:-1 tvg-name="WDR Köln" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-#EXTINF:-1 tvg-name="HR" tvg-id="HR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
+#EXTINF:-1 tvg-name="HR" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive
-#EXTINF:-1 tvg-name="MDR SACHSEN" tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/WVkYbb6.jpg" group-title="GERMANY",MDR SACHSEN
+#EXTINF:-1 tvg-name="MDR SACHSEN" tvg-id="" tvg-logo="https://i.imgur.com/WVkYbb6.jpg" group-title="GERMANY",MDR SACHSEN
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="MDR SACHSEN-ANHALT" tvg-id="MDRS-Anhalt.de" tvg-logo="http://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png" group-title="GERMANY",MDR SACHSEN-ANHALT
+#EXTINF:-1 tvg-name="MDR SACHSEN-ANHALT" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png" group-title="GERMANY",MDR SACHSEN-ANHALT
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
-#EXTINF:-1 tvg-name="MDR THÜRINGEN" tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/FkYKXZi.png" group-title="GERMANY",MDR THÜRINGEN
+#EXTINF:-1 tvg-name="MDR THÜRINGEN" tvg-id="" tvg-logo="https://i.imgur.com/FkYKXZi.png" group-title="GERMANY",MDR THÜRINGEN
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-name="TV Berlin" tvg-logo="https://i.imgur.com/SRhXe7d.png" group-title="GERMANY",TV Berlin
 https://live2.telvi.de/hls/tvberlin_hd720.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" tvg-logo="http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png" group-title="GERMANY",rbb Berlin
+#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png" group-title="GERMANY",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
-#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
 https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
 https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
-#EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="BR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
+#EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
 https://mcdn.br.de/bfs_sued/de/master.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="GERMANY",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="GERMANY",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-name="*** NEWS DE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE - github.com/Free-IPTV
 https://
-#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="http://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
+#EXTINF:-1 tvg-name="WELT" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1 tvg-name="WELT Live Stream" tvg-id="WELT.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT Live Stream
+#EXTINF:-1 tvg-name="WELT Live Stream" tvg-id="" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT Live Stream
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-name="Bloomberg TV (for DE but english)" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/qx2uHRU.png",Bloomberg TV (for DE but english)
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="EURONEWS" tvg-id="Euronews.de" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="GERMANY",EURONEWS
+#EXTINF:-1 tvg-name="EURONEWS" tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="GERMANY",EURONEWS
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International (for DE but english)" tvg-id=" tvg-logo="https://i.imgur.com/pqgYjPd.png" group-title="GERMANY",CNN International (for DE but english)
+#EXTINF:-1 tvg-name="CNN International (for DE but english)" tvg-id="" tvg-logo="https://i.imgur.com/pqgYjPd.png" group-title="GERMANY",CNN International (for DE but english)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="n-tv Event" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/9FPXcFY.jpg",n-tv Event
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelle+DE.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
+#EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="*** SPORT DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-name="FIFA Club WM" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/5RDKZk5.jpg",FIFA Club WM
 https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
-#EXTINF:-1 tvg-name="Sky Sport News HD - github.com/Free-IPTV" tvg-id="SkySportNewsHD.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Sky Sport News HD - github.com/Free-IPTV" tvg-id="" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD - github.com/Free-IPTV
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:-1 tvg-name="*** KIDS DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE - github.com/Free-IPTV
 https://
-#EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
+#EXTINF:-1 tvg-name="Kika" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
