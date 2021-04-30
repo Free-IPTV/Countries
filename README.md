@@ -1,5 +1,5 @@
 # Countries
-Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-) :D
 
 # IMPORTANT CHANGES!
 
@@ -29,7 +29,7 @@ While this idiot also now no longer has access to our private repo, he does use 
 
 This guy and also so some others are the reason why there is NO public repo anymore! This asshole copied the complete m3u's incl. file names to make a name for himself. The source WITH LINK to our repo is missing.
 
-You are welcome to thank him!
+You are welcome to thank him! 
 
 iptvmate.net
 
